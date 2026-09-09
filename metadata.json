@@ -1,0 +1,6 @@
+{
+  "name": "God Asura Luxury Showroom",
+  "description": "Award-winning luxury global car showroom showcasing the world's most extraordinary hypercars, supercars, and bespoke automobiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
